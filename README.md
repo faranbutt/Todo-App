@@ -16,6 +16,7 @@ https://todoapp-fr2wg4o9p-faranbutt.vercel.app/
 ```
 git clone https://github.com/faranbutt/Todo-App
 cd Todo-App
+npm install
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
